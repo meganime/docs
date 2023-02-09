@@ -1,4 +1,4 @@
-[![Build Status](https://cloud.drone.io/api/badges/drone/docs/status.svg)]([https://cloud.drone.io/drone/docs](https://e5bc-193-163-187-182.eu.ngrok.io/meganime/docs)
+[![Build Status](https://e5bc-193-163-187-182.eu.ngrok.io/api/badges/meganime/docs/status.svg)](https://e5bc-193-163-187-182.eu.ngrok.io/meganime/docs)
 
 This repository contains the source for [docs.drone.io](http://docs.drone.io).
 To generate the documentation you will need to download and install the [hugo](https://gohugo.io/overview/installing/) static website engine.
